@@ -1,8 +1,8 @@
 
-# Exploring Titanic Dataset: Data Cleaning, Feature Engineering, and In-Depth Analysis
-![titanic](images/titanicimage.jpg)
+# Exploring Titanic Dataset: Data Cleaning, Feature Engineering and Analysis
 
-This repository contains an in-depth analysis of the Titanic dataset, exploring various aspects of the passengers' information and their survival outcomes. The project involves data cleaning, feature engineering, and data visualization to gain insights into factors influencing survival on the Titanic.
+
+This repository contains an in-depth analysis of the Titanic dataset, exploring various aspects of the passengers' information and their survival outcomes. The project involves data cleaning, feature engineering and data visualization to gain insights into factors influencing survival of passengers on the Titanic.
 
 ## Project Overview
 
@@ -21,22 +21,6 @@ The Titanic dataset analysis is organized into several stages:
 6. **Correlation Analysis:** The correlation between different variables is calculated and visualized using a heatmap to identify relationships between features.
 
 
-## Files and Directories
-
-- `data/`: Contains the dataset files (`train.csv`, `test.csv`, `gender_submission.csv`).
-- `notebooks/`: Jupyter notebooks for different stages of the analysis.
-- `images/`: Images used in the README or notebooks.
-- `README.md`: The main project documentation you're currently reading.
-
-## Usage
-
-To explore this project, follow these steps:
-
-1. Clone the repository to your local machine.
-2. Install the necessary libraries listed in the `requirements.txt` file.
-3. Navigate to the directory and open the Jupyter notebooks in a compatible environment.
-4. Execute the code cells to perform the analysis step by step.
-
 ## Dependencies
 
 The project requires the following dependencies:
@@ -50,25 +34,3 @@ The project requires the following dependencies:
 - Jupyter Notebook (for interactive exploration)
 
 
-## Contributing
-
-Contributions are welcome! If you'd like to contribute to the project, feel free to fork the repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
-
----
-
-By [Isaac Ndirangu Muturi]
-
-
-Follow me on Twitter 🐦, connect with me on LinkedIn 🔗, and check out my GitHub 🐙. You won't be disappointed!
-
-👉 Twitter: https://twitter.com/NdiranguMuturi1?t=xXF2OKsqOUeb5J_4yysFKg&s=09
-
-👉 LinkedIn: https://www.linkedin.com/in/isaac-muturi-3b6b2b237 
-
-👉 GitHub: https://github.com/Isaac-Ndirangu-Muturi-749
-
-![thanks](images/thankyouimage.png)
